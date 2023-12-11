@@ -1,8 +1,9 @@
-**Welcome to Project-DeadUI!**
+**Welcome to GEAR-UI !**
 
-- Project-DeadUI is a custom ROM based on [LOS](https://github.com/LineageOS)
+- GEAR-UI is a custom ROM based on [crDroid Android](https://github.com/crdroidandroid)
+- Adapted to Rising 2.0 UI thanks for @minaripenguin for his work.
 - Our initial source is WIP for Android 14
 
 ### Important info & Links
 
-- [Manifest](https://github.com/Project-DeadUI/android_manifest.git)
+- [Manifest](https://github.com/Gear-UI/android_manifest.git)
